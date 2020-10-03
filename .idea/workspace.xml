@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e112e71b-b8dd-4099-85e4-689536ad01f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iEFvDpGQMdvtKLgU7wTA25layf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Stylus" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e112e71b-b8dd-4099-85e4-689536ad01f9" name="Default Changelist" comment="" />
+      <created>1601465072443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601465072443</updated>
+      <workItem from="1601465073466" duration="694000" />
+      <workItem from="1601465778606" duration="225000" />
+      <workItem from="1601466010734" duration="852000" />
+      <workItem from="1601466889797" duration="1328000" />
+      <workItem from="1601468389136" duration="454000" />
+      <workItem from="1601468878028" duration="860000" />
+      <workItem from="1601469755379" duration="4417000" />
+      <workItem from="1601491741458" duration="24599000" />
+      <workItem from="1601527753025" duration="18351000" />
+      <workItem from="1601580849268" duration="11629000" />
+      <workItem from="1601615694325" duration="11842000" />
+      <workItem from="1601679042471" duration="8928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1251" y="347" key="#Custom_Plugin_Repositories" timestamp="1601468352608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1251" y="347" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1601468352608" />
+    <state x="552" y="160" key="#Plugins" timestamp="1601470315221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1601470315221" />
+    <state x="442" y="112" width="994" height="713" key="SettingsEditor" timestamp="1601492785632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="112" width="994" height="713" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601492785632" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601699030549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601699030549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/functions/handlers/handlers.screams.js</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
